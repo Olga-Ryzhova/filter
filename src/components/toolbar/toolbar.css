@@ -1,0 +1,24 @@
+.btn-group {
+    margin-top: 30px;
+    padding-left: 17px;
+}
+
+.btn {
+	padding: 0 15px;
+	margin: 0 5px 15px 0;
+	border: 2px solid #a6a6a6; 
+	border-radius: none;
+	height: 38px;
+	font-size: 14px;
+	color: black;
+	background-color: #fff;
+	cursor: pointer;
+	border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover {
+	color: #fff;
+	background-color: #555555;
+	border-color: #555555;
+}
